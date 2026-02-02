@@ -1,0 +1,6 @@
+2026年2月2日
+实习地点：武汉市江夏区当代梦工厂7号楼3楼武汉奇安信公司
+实习时间：9:00-18:00
+今天着重学习了python的beautifulsoup（bs4）模组在HTMl转化为XML中的作用，学习了其安装，调试，工作方法和基本的代码流程。
+了解了使用不同的插件进行内网隧道搭建的方法，包括lcx，SSH，netcat（反弹shell）等
+客户端工具中学习了有关proxychains，reGeorg和frps等工具的基本使用方法，初步了解了Earthwarm和termite隧道搭建工具的使用。
